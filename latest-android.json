@@ -1,1 +1,1 @@
-{"build":79,"version":"2.13.28","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.13.28.\n\n- Update test: if you can read this in the update popup, in-app updating works\n"}
+{"build":80,"version":"2.13.29","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.13.29.\n\n- Update popup: full screen with a clear Download and Later button; new updates are noticed while the app is open or when you come back to it\n"}
