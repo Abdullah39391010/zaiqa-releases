@@ -1,0 +1,1 @@
+{"build":78,"version":"2.13.27","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.13.27.\n\n- Update check now reads a small status file first, so new versions show up reliably\n"}
