@@ -1,1 +1,1 @@
-{"build":83,"version":"2.13.31","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.13.31.\n\n- Telegram bot now works through the Zaiqa relay (no VPN needed)\n"}
+{"build":84,"version":"2.13.32","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.13.32.\n\n- Telegram bot: many new commands (tables, bills, top items, profit, waiters, riders, customers, menu, expenses, any date and more) with quick buttons. Send /help\n"}
