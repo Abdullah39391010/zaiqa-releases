@@ -1,1 +1,1 @@
-{"build":82,"version":"2.13.30","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.13.30.\n\n- Telegram bot can use a relay address (for networks where Telegram is blocked)\n"}
+{"build":83,"version":"2.13.31","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.13.31.\n\n- Telegram bot now works through the Zaiqa relay (no VPN needed)\n"}
