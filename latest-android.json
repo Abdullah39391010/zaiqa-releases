@@ -1,1 +1,1 @@
-{"build":104,"version":"2.15.1","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.15.1.\n\nRemote owner sign-in removed\n- The Remote owners feature from the last update has been taken out. The POS works as it did in version 2.14.3.\n"}
+{"build":106,"version":"2.15.2","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.15.2.\n\nRemote owner sign-in removed\n- The \"Remote owners\" feature added in the last update has been taken out. Everything else is unchanged.\n"}
