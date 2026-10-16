@@ -1,1 +1,1 @@
-{"build":118,"version":"2.19.2","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.19.2.\n\nFix: Waiter app Scan QR camera now works\n"}
+{"build":119,"version":"2.19.3","notes":"Zaiqa Billing, Zaiqa Waiter and Zaiqa Kitchen apps, version 2.19.3.\n\nPOS: the \"Connect waiters by QR\" code now also shows on the Waiters screen\n"}
